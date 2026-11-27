@@ -18,6 +18,4 @@ Descreva os passos para testar as alterações e os resultados esperados.
 - [ ] Não subi `.env`, `node_modules`, `pgdata` ou informações sensíveis.
 - [ ] Meus commits possuem prefixos (`feat:`, `fix:`, `chore:`, `docs:`, etc.) e mensagens em português.
 - [ ] Comentei os pontos importantes do código, quando necessário.
-- [ ] Atualizei a documentação, quando necessário.
 - [ ] Sei explicar tudo o que está neste PR.
-- [ ] Solicitei a revisão de outro integrante da squad.
